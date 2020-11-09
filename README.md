@@ -1,2 +1,2 @@
-# Class29
-catapult and rubber band strokeweight according to the position of the line
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
